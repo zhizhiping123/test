@@ -2,4 +2,8 @@
 branch1:修改了1.txt
 branch2:第二次修改了2.txt
 branch2:修改了1.txt
+<<<<<<< HEAD
+testGit也修改了这里
+=======
 testGit2修改了
+>>>>>>> branch 'branch2' of https://github.com/zhizhiping123/test.git
