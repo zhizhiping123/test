@@ -1,12 +1,12 @@
-1ё╨лМ╪сак2154р╩╣Ц╤╚нВ
+1О╪ Ф╥╩Е┼═Д╨├2154Д╦─Г┌╧Д╦°Х╔©
 1234567498
-branch1:пч╦дак1.txt
-branch2:╣з╤Ч╢нпч╦дак2.txt
-branch2:пч╦дак1.txt123
+branch1:Д©╝Ф■╧Д╨├1.txt
+branch2:Г╛╛Д╨▄Ф╛║Д©╝Ф■╧Д╨├2.txt
+branch2:Д©╝Ф■╧Д╨├1.txt123
 <<<<<<< HEAD
-testGitр╡пч╦дакуБюО
+testGitД╧÷Д©╝Ф■╧Д╨├Х©≥И┤▄
 =======
-testGit2пч╦дак
+testGit2Д©╝Ф■╧Д╨├
 >>>>>>> branch 'branch2' of https://github.com/zhizhiping123/test.git
-
+Е╪═Д╦┴
 13DS651321x5cv
