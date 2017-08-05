@@ -2,3 +2,4 @@
 branch1:修改了1.txt
 branch2:第二次修改了2.txt
 branch2:修改了1.txt
+testGit2修改了
